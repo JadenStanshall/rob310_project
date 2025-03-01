@@ -1,2 +1,2 @@
-# rob310_project
-ROB310 mini project
+# ROB310 Project
+- extra credit project
