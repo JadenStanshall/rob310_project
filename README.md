@@ -1,2 +1,2 @@
 # ROB310 Project
-- extra credit project
+- mini project/report for rob310: mathematics for robotics, a 3rd year course in engsci robotics
